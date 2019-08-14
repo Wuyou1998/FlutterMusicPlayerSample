@@ -3,6 +3,6 @@
 一个圆形的进度条包裹封面  
 下方波浪随着声音起伏  
 截图  
-<img src="https://github.com/Wuyou1998/FlutterMusicPlayerSample/blob/master/images/player.png" width="480"/>
+<img src="https://github.com/Wuyou1998/FlutterMusicPlayerSample/blob/master/images/player.png" width="360"/>
 gif  
-<img src="https://github.com/Wuyou1998/FlutterMusicPlayerSample/blob/master/images/play.gif" width="480"/>
+<img src="https://github.com/Wuyou1998/FlutterMusicPlayerSample/blob/master/images/play.gif" width="260"/>
