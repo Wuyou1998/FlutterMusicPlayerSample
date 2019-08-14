@@ -1,2 +1,5 @@
 # FlutterMusicPlayerSample
 一个用flutter做的简单音乐播放器案例
+他的界面是这样的，一个圆形的进度条包裹封面
+下方波浪随着声音起伏
+

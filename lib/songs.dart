@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 final DemoPlayList demoPlayList = DemoPlayList(
   songs: [
     new DemoSong(
-      audioUrl: 'https://webfs.yun.kugou.com/201906021551/138742e4dff13c59a3a3f6d2609861f1/G119/M01/05/0D/F4cBAFxlweSAT9BlAEHWDL3dgeI800.mp3',
-      albumArtUrl: 'https://p3fx.kgimg.com/stdmusic/20190216/20190216172238787963.jpg',
-      songTitle: '绿色',
-      artist: '陈雪凝',
+      audioUrl: 'https://webfs.yun.kugou.com/201908142006/3384e73faecbfbb6ee704ed3714365ed/G082/M04/1A/18/kg0DAFhO6BiAF5PyAEWMy-ABPXo616.mp3',
+      albumArtUrl: 'https://p3fx.kgimg.com/stdmusic/20150720/20150720161351841778.jpg',
+      songTitle: '别怕我伤心',
+      artist: '张信哲',
     ),
     new DemoSong(
       audioUrl: 'https://webfs.yun.kugou.com/201906011520/a952b450801e25f318d147d08811ec27/G004/M07/16/01/RA0DAFS5MrWAUl75ADW2E7EymdY160.mp3',
